@@ -311,7 +311,7 @@ $(window).load(function(){
             {
                 "TIME": "8:30 - 10:00",
                 "HALL ROOM": "TOPIC[45']\r\nSPEAKER<br>by Kiro Harada<br>Agile Tour Osaka\r\n\r\nAre You Killing Mr. Jenkins?[45']\r\nQuang Nguyen<br>by Tai Huynh<br>Agile Tour HCMC",
-                "WORKSHOP1": "Storytelling' as a transformation tool\r\nEric LARAMÉE<br>by Martin Goyette<br>Agile Tour Montreal"
+                "WORKSHOP1": "Storytelling' as a transformation tool[90']\r\nEric LARAMÉE<br>by Martin Goyette<br>Agile Tour Montreal"
             },
             {
                 "TIME": "10:00 - 10:15",
@@ -320,7 +320,7 @@ $(window).load(function(){
             {
                 "TIME": "10:15 - 11:45",
                 "HALL ROOM": "TOPIC[45']\r\nKimble NGO<br>by Alexandre Cuva<br>Agile Tour Da Nang\r\n\r\nHow to start your agile journey[45']\r\nDoi Pham<br>by himself<br>Agile Tour Hanoi",
-                "WORKSHOP1": "Change your language, change your thinking\r\nStephen Norrvall & Terry Haayema<br>by Jeremie Benazra<br>Agile Tour Sydney"
+                "WORKSHOP1": "Change your language, change your thinking[90']\r\nStephen Norrvall & Terry Haayema<br>by Jeremie Benazra<br>Agile Tour Sydney"
             },
             {
                 "TIME": "11:45 - 13:00",
@@ -328,8 +328,8 @@ $(window).load(function(){
             },
             {
                 "TIME": "13:00 - 15:30",
-                "HALL ROOM": "TOPIC[45']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
-                "WORKSHOP1": "Agile Culture and Organisational Shift\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut"
+                "HALL ROOM": "Applying Impact Map to Create a Role Competence Model of the Product Development Eco-system[45']\r\nJacky SHEN<br>by Biqui WANG<br>Agile Tour Zhuhai\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
+                "WORKSHOP1": "Agile Culture and Organisational Shift[45']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut\r\n\r\nTOPIC[45']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore"
             },
             {
                 "TIME": "15:30 - 15:45",
@@ -337,8 +337,8 @@ $(window).load(function(){
             },
             {
                 "TIME": "15:45 - 17:15",
-                "HALL ROOM": "TOPIC[45']\r\nSPEAKER<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
-                "WORKSHOP1": "Agile Innovation with JTBD\r\nRicardo TOME<br>by Patrice PETIT<br>Agile Tour Paris"
+                "HALL ROOM": "TOPIC[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
+                "WORKSHOP1": "Agile Innovation with JTBD[90']\r\nRicardo TOME<br>by Patrice PETIT<br>Agile Tour Paris"
             },
             {
                 "TIME": "17:15 - 17:30",
