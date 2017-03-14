@@ -247,7 +247,7 @@ $(window).load(function(){
 
                 console.log(speaker['img_src']);
                 if(key == 'img_src'){
-                    $("#speaker_" + key).attr('src',speaker[key] || '');
+                    $("#speaker_" + key).attr('src',speaker[key] || '/img/coming-soon.jpg');
                 }else if(key == 'img_alt'){
                     $("#speaker_" + key).attr('alt',speaker[key] || '');
                 }else if(key == 'original'){

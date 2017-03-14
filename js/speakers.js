@@ -31,15 +31,15 @@ var speakers = {
 	danang : {
 		id : "spk-danang",
 		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAmEAAAAJGVlYWY4ZGMzLTIxN2MtNGFmOS04M2U4LTRlM2RjYjk0ZGU2OQ.jpg",
-		img_alt : "",
+		img_alt : "Kimble NGO",
 		name : "Kimble NGO",
 		spk_name : "Kimble NGO",
 		position : "Communication Guru",
 		linkedin : "https://sg.linkedin.com/in/kimblengo",
 		spk_title : "Communication Guru<br>Agile Tour Da Nang 2016<br>",
 		original : "...",
-		topic : "Topic: From IT Expert to Sought-After IT Guru",
-		description	: ""
+		topic : "Topic: We don't speak our Customers language",
+		description	: "<p>We often think that speaking the same language (like english, Vietnamese, C++, HTML5, Agile) means we understand the same thing. Yes it makes a lot of sense, but there is still miscommunication problems. Between colleagues, bosses & staff, clients, engineers & the business... Why because we are NOT speaking the same language</p><p>Come listen to and find out the top 9 mistakes people make (and how to speak the right language)</p>"
 	},
 
 	hcmc : {
