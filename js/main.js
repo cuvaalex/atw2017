@@ -553,7 +553,7 @@ function init_map() {
         position: new google.maps.LatLng(16.0386529,108.2497546) //change the coordinates
     });
     infowindow = new google.maps.InfoWindow({
-        content: "<b>Agile{Tour}World</b>, Furama Ressort, Danang City, Vietnam. "  //add your address
+        content: "<b>Agile{Tour}World</b>, Venue Ressort, Danang City, Vietnam. "  //add your address
     });
     google.maps.event.addListener(marker, "click", function () {
         infowindow.open(map, marker);
