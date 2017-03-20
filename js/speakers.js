@@ -44,7 +44,7 @@ var speakers = {
 
 	hcmc : {
 		id : "spk-hcmc",
-		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/04b/2b6/2d5f34f.jpg",
+		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAuYAAAAJGY1NDMzZjI2LTU5ZmYtNGIxMy1hODhhLTdkNGQ5ZmM5YTQ5NA.jpg",
 		img_alt : "",
 		name : "Quang NGUYEN",
 		spk_name : "Quang NGUYEN",
@@ -73,15 +73,15 @@ var speakers = {
 	singapore : {
 		id : "spk-singapore",
 		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAb0AAAAJDJhNDU0ODdkLWNhMWEtNDEyYS1hNTBkLTRjOTc2NzRiMWEzNw.jpg",
-		img_alt : "",
+		img_alt : "Cedric MAINGUY",
 		name : "Cedric MAINGUY",
 		spk_name : "Cedric MAINGUY",
 		position : "Managing Consultant",
 		linkedin : "https://sg.linkedin.com/in/cedricmainguy",
 		spk_title : "Managing Consultant<br>Agile Tour Singapore 2015",
 		original : "...",
-		topic : "Topic: TCS",
-		description	: ""
+		topic : "Topic: Beyond Agile: Designing a sensible post-agile approach to innovation",
+		description	: "<p>In this interactive session, you will learn how leading organizations go beyond the implementation of agile as a means to improve their innop>vation capabilities and are building innovation-driven cultures that are playful, collaborative and highly energizing.</p><This session will delve into how agile meshes beautifully with other approaches such as the human-centered approach and together shape a new breed of business strategy, create superior innovations and delight customers with meaningful experiences.</p><p>And by the way, you might also learn that waterfall isn't so evil after all!</p>"
 	},
     osaka : {
         id : "spk-osaka",
