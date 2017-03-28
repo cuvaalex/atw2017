@@ -337,7 +337,7 @@ $(window).load(function(){
             },
             {
                 "TIME": "15:45 - 17:15",
-                "HALL ROOM": "TOPIC[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
+                "HALL ROOM": "Making Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
                 "WORKSHOP1": "Agile Innovation with JTBD[90']\r\nRicardo TOME<br>by Patrice PETIT<br>Agile Tour Paris"
             },
             {
@@ -542,7 +542,7 @@ var newsletter_send = function(){
 function init_map() {
     var myOptions = {
         zoom: 14,
-        center: new google.maps.LatLng(16.0386529,108.2497546), //change the coordinates
+        center: new google.maps.LatLng(16.049763, 108.248655), //change the coordinates
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false,
         styles: [{featureType:'all',stylers:[{saturation:-100},{gamma:0.50}]}]
@@ -550,10 +550,10 @@ function init_map() {
     map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
     marker = new google.maps.Marker({
         map: map,
-        position: new google.maps.LatLng(16.0386529,108.2497546) //change the coordinates
+        position: new google.maps.LatLng(16.049763, 108.248655) //change the coordinates
     });
     infowindow = new google.maps.InfoWindow({
-        content: "<b>Agile{Tour}World</b>, Venue Ressort, Danang City, Vietnam. "  //add your address
+        content: "<b>Agile{Tour}World</b>, Holiday Beach Venue Hotel, Danang City, Vietnam. "  //add your address
     });
     google.maps.event.addListener(marker, "click", function () {
         infowindow.open(map, marker);

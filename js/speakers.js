@@ -145,8 +145,8 @@ var speakers = {
         linkedin : "https://www.linkedin.com/in/pete-chemsripong/",
         spk_title : "Senior User Experience Designer<br>Agile Tour Bangkok 2016",
         original : "...",
-        topic : "Topic: TCS",
-        description	: ""
+        topic : "Topic: Making Design Thinking, Lean, and Agile works together",
+        description	: "<p>As our industry evolve, so is our craft - our processes and techniques. From design perspective, mindsets like Agile, Lean, and Design Thinking have dominated the way we develop our digital products. Naturally, there are some confusions.</p><p>Let's start at the summary of history, key insights and practices of each. Then we will kick off the open discussions with a few of our war stories to explore what is overlapping and how it can all fit together. More importantly, would it all work with your organisation?</p>"
     },
     china1 : {
         id: "spk-china1",
