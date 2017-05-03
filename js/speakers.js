@@ -83,31 +83,18 @@ var speakers = {
 		topic : "Topic: Beyond Agile: Designing a sensible post-agile approach to innovation",
 		description	: "<p>In this interactive session, you will learn how leading organizations go beyond the implementation of agile as a means to improve their innop>vation capabilities and are building innovation-driven cultures that are playful, collaborative and highly energizing.</p><This session will delve into how agile meshes beautifully with other approaches such as the human-centered approach and together shape a new breed of business strategy, create superior innovations and delight customers with meaningful experiences.</p><p>And by the way, you might also learn that waterfall isn't so evil after all!</p>"
 	},
-    osaka : {
-        id : "spk-osaka",
-        img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAezAAAAJDU0MDIxYmNiLTE2YzQtNDMwOC1iYmQ1LTM3ODk5ZGY5NDY5Yg.jpg",
+    hongKong : {
+        id : "spk-hk",
+        img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWYAAAAJDI2NTYyMDlhLTUyZWQtNGYzZi1hNzRiLTY4ODFkODIwMjRjMg.jpg",
         img_alt : "",
-        name : "Kiro HARADA",
-        spk_name : "Kiro HARADA",
-        position : "Agile Lean Coach",
-        linkedin : "https://www.linkedin.com/in/haradakiro/",
-        spk_title : "Lean Agile Coach<br>Agile Tour Osaka 2016",
+        name : "Pedro PIMENTEL",
+        spk_name : "Pedro PIMENTEL",
+        position : "Agile Coach",
+        linkedin : "https://www.linkedin.com/in/pedropimentel/",
+        spk_title : "Agile Coach<br>Agile Tour Hong Kong 2016",
         original : "...",
-        topic : "Topic: TCS",
-        description	: ""
-    },
-    paris : {
-        id : "spk-paris",
-        img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARHAAAAJGNjM2JmNDQ4LWM0NDgtNGMxZS05ZjU3LWQ4YWE2NGE1NDYyZQ.jpg",
-        img_alt : "",
-        name : "Ricardo TOME",
-        spk_name : "Ricardo TOME",
-        position : "Lean Agile Coach",
-        linkedin : "https://www.linkedin.com/in/ricardotome/",
-        spk_title : "Lean Agile Coach<br>Agile Tour Paris 2016",
-        original : "...",
-        topic : "Topic: Agile Innovation with JTBD",
-        description	: "The journey from idea to customer value is usually very intense. The initial step of identifying what customers really want is key for success. In this workshop, you will work in teams to a product by practicing to “Jobs to be Done” techniques. These tools enable organisations to have a different level of collaboration and keep focus on achieving customer value.<br>Benefits for the attendees : Learn new pragmatic techniques to perform Agile innovation. Techniques learned: - Jobs to be Done - Jobs to be Done cards - Jobs to be Done maps - Jobs to be Done outcomes and constraints - Value Proposition Canvas - MVO (Minimum Viable Outcome)"
+        topic : "Topic: Agility is Unsetling",
+        description	: "Adopting agile can cause quite a lot of turmoil depending on how organisations are setup. It’s something some experts in cultural transformation call Liminality, the quality of ambiguity or disorientation that happens in the middle stage of a ritual. This process, as we know, causes fear, panic, depression and even some some neuroses. As Agile Coaches, we want to help everyone transition this phase without much of those issues, so we need to understand what causes liminality and how to make it work for us."
     },
     sidney : {
         id : "spk-sidney",

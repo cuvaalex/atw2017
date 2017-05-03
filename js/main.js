@@ -310,7 +310,7 @@ $(window).load(function(){
             },
             {
                 "TIME": "8:30 - 10:00",
-                "HALL ROOM": "TOPIC[45']\r\nSPEAKER<br>by Kiro Harada<br>Agile Tour Osaka\r\n\r\nAre You Killing Mr. Jenkins?[45']\r\nQuang Nguyen<br>by Tai Huynh<br>Agile Tour HCMC",
+                "HALL ROOM": "Beyond Agile: Designing a sensible post-agile approach to innovation[45']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore\r\n\r\nAre You Killing Mr. Jenkins?[45']\r\nQuang Nguyen<br>by Tai Huynh<br>Agile Tour HCMC",
                 "WORKSHOP1": "Storytelling' as a transformation tool[90']\r\nEric LARAMÉE<br>by Martin Goyette<br>Agile Tour Montreal"
             },
             {
@@ -323,13 +323,13 @@ $(window).load(function(){
                 "WORKSHOP1": "Change your language, change your thinking[90']\r\nStephen Norrvall & Terry Haayema<br>by Jeremie Benazra<br>Agile Tour Sydney"
             },
             {
-                "TIME": "11:45 - 13:00",
+                "TIME": "11:45 - 14:00",
                 "HALL ROOM": "LUNCH TIME AND NETWORKING"
             },
             {
-                "TIME": "13:00 - 15:30",
+                "TIME": "14:00 - 15:30",
                 "HALL ROOM": "Applying Impact Map to Create a Role Competence Model of the Product Development Eco-system[45']\r\nJacky SHEN<br>by Biqui WANG<br>Agile Tour Zhuhai\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
-                "WORKSHOP1": "Agile Culture and Organisational Shift[45']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut\r\n\r\nBeyond Agile: Designing a sensible post-agile approach to innovation[45']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore"
+                "WORKSHOP1": "Agile Culture and Organisational Shift[45']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut\r\n\r\nAgility is Unsetling[45']\r\nPedro Pimentel<br>by Steven Mak<br>Agile Tour Hong Kong"
             },
             {
                 "TIME": "15:30 - 15:45",
@@ -338,7 +338,7 @@ $(window).load(function(){
             {
                 "TIME": "15:45 - 17:15",
                 "HALL ROOM": "Making Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
-                "WORKSHOP1": "Agile Innovation with JTBD[90']\r\nRicardo TOME<br>by Patrice PETIT<br>Agile Tour Paris"
+                "WORKSHOP1": ""
             },
             {
                 "TIME": "17:15 - 17:30",
@@ -346,7 +346,7 @@ $(window).load(function(){
             },
             {
                 "TIME": "17:30 - 21:00",
-                "HALL ROOM": "BBQ & BDAY PARTY"
+                "HALL ROOM": "BDAY PARTY"
             }
         ]
     };
