@@ -320,7 +320,7 @@ $(window).load(function(){
             {
                 "TIME": "10:15 - 11:45",
                 "HALL ROOM": "We don't speak our Customers language[45']\r\nKimble NGO<br>by Alexandre Cuva<br>Agile Tour Da Nang\r\n\r\nHow to start your agile journey[45']\r\nDoi Pham<br>by himself<br>Agile Tour Hanoi",
-                "WORKSHOP1": "Change your language, change your thinking[90']\r\nStephen Norrvall & Terry Haayema<br>by Jeremie Benazra<br>Agile Tour Sydney"
+                "WORKSHOP1": "Agility is Unsetling[60']\r\nPedro Pimentel<br>by Steven Mak<br>Agile Tour Hong Kong"
             },
             {
                 "TIME": "11:45 - 14:00",
@@ -329,7 +329,7 @@ $(window).load(function(){
             {
                 "TIME": "14:00 - 15:30",
                 "HALL ROOM": "Applying Impact Map to Create a Role Competence Model of the Product Development Eco-system[45']\r\nJacky SHEN<br>by Biqui WANG<br>Agile Tour Zhuhai\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
-                "WORKSHOP1": "Agile Culture and Organisational Shift[45']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut\r\n\r\nAgility is Unsetling[45']\r\nPedro Pimentel<br>by Steven Mak<br>Agile Tour Hong Kong"
+                "WORKSHOP1": "Agile Culture and Organisational Shift[90']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut"
             },
             {
                 "TIME": "15:30 - 15:45",
