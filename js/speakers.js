@@ -104,19 +104,6 @@ var speakers = {
         topic : "Topic: Self-Organizing team is a \"by-product\"",
         description	: "<ol><li>According to the research \"Conditions for Self-Organizing in Human Systems\" done by Glenda H. Eoyang, container, difference, and exchange are the conditions that shape the path of the self-organizing processes. Self-organizing is the process that moves from one state of coherence to another.<br>The CDE Model provides a simple and generalizable framework to describe the emergent behavior of human collectives.</li><li>Self-Organizing team lives in an environment, interacts with the environment. contextual support for self-organising teams consists basically of four sub-systems:<ul stype=\"list-style-type:circle\"><li>information – in terms of providing teams the data that members need to competently plan and execute their work</li><li>infrastructure – in terms of appropriate physical space (a factor many co-located teams struggle with), technical infrastructure and money.</li><li>education – in terms of any training, coaching or technical assistance the team may need</li><li>reward – in terms of providing positive, economic as well as symbolic consequences for good team performance.</li></ul>As a leader or manager, you could cultivate the team by changing those sub-systems over the time.</li><li>The most important factor for a Self-Organizing team, is to have a compelling mission or vision. Once the team has the authority to set their goal and decide how to process towards the goal, with some support, Self-Organizing is just a \"by-product\" of actualizing the goal.</li></ol>"
     },
-    china3 : {
-        id : "spk-china3",
-        img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfIAAAAJDk5ZWQ3YTFjLTQ1NzgtNDg3NS05YWYwLTQ2ODM4OTU4ZDlmMQ.jpg",
-        img_alt : "Jacky SHEN",
-        name : "Jacky SHEN",
-        spk_name : "Jacky SHEN",
-        position : "Agile Coaching",
-        linkedin : "https://www.linkedin.com/in/shenjacky/",
-        spk_title : "Agile Coaching<br>Agile Tour Zunghai 2016",
-        original : "...",
-        topic : "Topic: Applying Impact Map to Create a Role Competence Model of the Product Development Eco-system",
-        description	: "Most organizations want to become more innovative as a unit and bring out the potential of their people, but most struggle to transform themselves. Carrying an eco-system view on the organization and various roles within, in this session, Bill will share he and colleagues’ finding and summary on the competences and impacts of various roles bring to the eco-system, and the potential action items to develop the competences or create the impacts."
-    },
     danang : {
         id : "spk-danang",
         img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAmEAAAAJGVlYWY4ZGMzLTIxN2MtNGFmOS04M2U4LTRlM2RjYjk0ZGU2OQ.jpg",

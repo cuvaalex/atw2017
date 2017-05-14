@@ -328,7 +328,7 @@ $(window).load(function(){
             },
             {
                 "TIME": "14:00 - 15:30",
-                "HALL ROOM": "Applying Impact Map to Create a Role Competence Model of the Product Development Eco-system[45']\r\nJacky SHEN<br>by Biqui WANG<br>Agile Tour Zhuhai\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
+                "HALL ROOM": "How to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
                 "WORKSHOP1": "Agile Culture and Organisational Shift[90']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut"
             },
             {
