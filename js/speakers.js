@@ -58,9 +58,9 @@ var speakers = {
 		img_alt : "Cedric MAINGUY",
 		name : "Cedric MAINGUY",
 		spk_name : "Cedric MAINGUY",
-		position : "Managing Consultant",
+		position : "Innovation Coach",
 		linkedin : "https://sg.linkedin.com/in/cedricmainguy",
-		spk_title : "Managing Consultant<br>Agile Tour Singapore 2015",
+		spk_title : "Innovation Coach<br>Agile Tour Singapore 2015",
 		original : "...",
 		topic : "Topic: Beyond Agile: Designing a sensible post-agile approach to innovation",
 		description	: "<p>In this interactive session, you will learn how leading organizations go beyond the implementation of agile as a means to improve their innop>vation capabilities and are building innovation-driven cultures that are playful, collaborative and highly energizing.</p><This session will delve into how agile meshes beautifully with other approaches such as the human-centered approach and together shape a new breed of business strategy, create superior innovations and delight customers with meaningful experiences.</p><p>And by the way, you might also learn that waterfall isn't so evil after all!</p>"
