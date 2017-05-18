@@ -310,7 +310,7 @@ $(window).load(function(){
             },
             {
                 "TIME": "8:45 - 10:15",
-                "HALL ROOM": "Beyond Agile: Designing a sensible post-agile approach to innovation[45']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore\r\n\r\nAre You Killing Mr. Jenkins?[45']\r\nQuang Nguyen<br>by Tai Huynh<br>Agile Tour HCMC",
+                "HALL ROOM": "Self-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou\r\n\r\nAre You Killing Mr. Jenkins?[45']\r\nQuang Nguyen<br>by Tai Huynh<br>Agile Tour HCMC",
                 "WORKSHOP1": "Storytelling' as a transformation tool[90']\r\nEric LARAMÉE<br>by Martin Goyette<br>Agile Tour Montreal"
             },
             {
@@ -337,8 +337,8 @@ $(window).load(function(){
             },
             {
                 "TIME": "15:45 - 17:15",
-                "HALL ROOM": "Making Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok\r\n\r\nSelf-Organizing team is a \"by-product[45']\"\r\nPhilip WANG<br>by Liao Yuan Zhang<br>Agile Tour Hangzhou",
-                "WORKSHOP1": ""
+                "HALL ROOM": "Making Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok",
+                "WORKSHOP1": "Beyond Agile: Designing a sensible post-agile approach to innovation[90']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore"
             },
             {
                 "TIME": "17:15 - 17:30",
