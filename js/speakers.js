@@ -27,7 +27,7 @@ var speakers = {
     },
     montreal : {
 		id : "spk-montreal",
-		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAPjAAAAJGE0NDU1NzZkLWI5MmYtNDY0YS05ZjBlLTNlNjNiZDNjOGFhMw.jpg",
+		img_src : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAy3AAAAJGViNDVkM2EwLWRhNjMtNDZmYi04OWRiLWE4ODZiMjI2ZWQ2Yw.jpg",
 		img_alt : "",
 		name : "Eric LARAMÉE",
 		spk_name : "Eric LARAMÉE",
@@ -132,7 +132,7 @@ var speakers = {
     },
     france : {
         id : "spk-france",
-        img_src : "",
+        img_src : "/img/coming-soon.jpg",
         img_alt : "",
         name : "Arnaud CHARPENTIER",
         spk_name : "Arnaud CHARPENTIER",
