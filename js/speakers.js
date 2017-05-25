@@ -129,8 +129,20 @@ var speakers = {
         original : "...",
         topic : "Topic: Are You Killing Mr. Jenkins?",
         description	: "Continuous Integration is crucial in modern software development. Therefore, a lot of teams involve Mr. Jenkins and hope for a better quality software. But do they know that they are killing Mr. Jenkins? My talk will answer this question and introduce 3 levels of good practices to maintain a healthy, strong and long living Mr. Jenkins."
+    },
+    france : {
+        id : "spk-france",
+        img_src : "",
+        img_alt : "",
+        name : "Arnaud CHARPENTIER",
+        spk_name : "Arnaud CHARPENTIER",
+        position : "Agile Coach",
+        linkedin : "https://www.linkedin.com/in/arnaud-charpentier-1b55266/",
+        spk_title : "Agile Coach<br>Agile Tour Paris 2016",
+        original : "...",
+        topic : "Topic: Creativity, Lateral Thinking and Innovation Games",
+        description	: "<p>Increase creativity by activating lateral thinking through innovation games.</p><p>You often find that solutions or products you deliver miss innovation or that your teams miss creativity.</p><p>First, let us define creativity: according to Edward de Bono, creative thinking expert, you are not creative by being different or behaving differently but by bringing valuable ideas.</p><p>With time, teams tend to be less and less creative, as if they were falling asleep. Exploring lateral thinking through the innovation games empowers teams with renewed creativity and will help them to find new ways of improvements that will bring value to their customers.</p><br><p>Come discover one of the innovation games developing lateral thinking :\"Give them a hot tube\". We will experiment several ways to discover tools to bring values to your ideas.</p><br><p>This workshop is brought to you courtesy of Nicolas Delahaye, original designer.</p>"
     }
-
 
 
 

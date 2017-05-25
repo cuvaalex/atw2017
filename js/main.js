@@ -301,12 +301,12 @@ $(window).load(function(){
                 "HALL ROOM": "REGISTRATION & COFFEE TIME"
             },
             {
-                "TIME": "8:00 - 8:15",
+                "TIME": "8:00 - 8:30",
                 "HALL ROOM": "OPENING PLENARY"
             },
             {
-                "TIME": "8:15 - 8:45",
-                "HALL ROOM": "REMOTE CALL AND TEA BREAK"
+                "TIME": "8:30 - 8:45",
+                "HALL ROOM": "TEA BREAK AND NETWORKING"
             },
             {
                 "TIME": "8:45 - 10:15",
@@ -314,34 +314,34 @@ $(window).load(function(){
                 "WORKSHOP1": "Storytelling' as a transformation tool[90']\r\nEric LARAMÉE<br>by Martin Goyette<br>Agile Tour Montreal"
             },
             {
-                "TIME": "10:15 - 10:45",
-                "HALL ROOM": "REMOTE CALL"
+                "TIME": "10:15 - 10:30",
+                "HALL ROOM": "TEA BREAK AND NETWORKING"
             },
             {
-                "TIME": "10:45 - 11:45",
-                "HALL ROOM": "How to start your agile journey[60']\r\nDoi Pham<br>by himself<br>Agile Tour Hanoi",
+                "TIME": "10:30 - 12:00",
+                "HALL ROOM": "How to start your agile journey[45']\r\nDoi Pham<br>by himself<br>Agile Tour Hanoi\r\n\r\nMaking Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok",
                 "WORKSHOP1": "Agility is Unsetling[60']\r\nPedro Pimentel<br>by Steven Mak<br>Agile Tour Hong Kong"
             },
             {
-                "TIME": "11:45 - 14:00",
+                "TIME": "12:00 - 13:30",
                 "HALL ROOM": "LUNCH TIME AND NETWORKING"
             },
             {
-                "TIME": "14:00 - 15:30",
+                "TIME": "13:30 - 15:00",
                 "HALL ROOM": "We don't speak our Customers language[45']\r\nKimble NGO<br>by Alexandre Cuva<br>Agile Tour Da Nang\r\n\r\nHow to pull an elephant ---- and 5 tips in organizational Agile transformation[45']\r\nAndy WANG<br>by Jacky SHEN<br>Agile Tour Tian Jin",
                 "WORKSHOP1": "Agile Culture and Organisational Shift[90']\r\nPierre E. Neis<br>by Hervouet PIERRE<br>Agile Tour Beirut"
             },
             {
-                "TIME": "15:30 - 15:45",
+                "TIME": "15:00 - 15:15",
                 "HALL ROOM": "TEA BREAK AND NETWORKING"
             },
             {
-                "TIME": "15:45 - 17:15",
-                "HALL ROOM": "Making Design Thinking, Lean, and Agile works together[45']\r\nPete CHEMSRIBOURG<br>by Kulawat Wonsaroj<br>Agile Tour Bangkok",
+                "TIME": "15:15 - 16:45",
+                "HALL ROOM": "Creativity, Lateral Thinking and Innovation Games[90']\r\nArnaud CHARPENTIER<br>by Patrice PETIT<br>Agile Tour Paris",
                 "WORKSHOP1": "Beyond Agile: Designing a sensible post-agile approach to innovation[90']\r\nCedric MAINGUY<br>by Sylvain MAHE<br>Agile Tour Singapore"
             },
             {
-                "TIME": "17:15 - 17:30",
+                "TIME": "16:45 - 17:30",
                 "HALL ROOM": "CLOSING PLENARY"
             },
             {
